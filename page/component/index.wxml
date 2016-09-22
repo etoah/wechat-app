@@ -1,4 +1,13 @@
 <view class="index">
+    <view class="imgs">
+        <image class="img" src="./resources/1.jpg"/>
+        <image class="img" src="./resources/2.jpg"/>
+        <image class="img" src="./resources/3.jpg"/>
+        <image class="img" src="./resources/4.jpg"/>
+        <image class="img" src="./resources/5.jpg"/>
+    </view>
+
+
     <view class="head">
         <view class="title">抬扛</view>
         <view class="desc">这是抬扛组件的DEMO。</view>

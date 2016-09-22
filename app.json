@@ -73,20 +73,25 @@
     "backgroundColor": "#fbf9fe"
   },
   "tabBar": {
-    "color": "#dddddd",
-    "selectedColor": "#3cc51f",
+    "color": "#878787",
+    "selectedColor": "#ff8533",
     "borderStyle": "black",
     "backgroundColor": "#ffffff",
     "list": [{
       "pagePath": "page/component/index",
-      "iconPath": "image/wechat.png",
-      "selectedIconPath": "image/wechatHL.png",
-      "text": "组件"
+      "iconPath": "image/home.png",
+      "selectedIconPath": "image/home.active.png",
+      "text": "主页"
     }, {
       "pagePath": "page/API/index/index",
-      "iconPath": "image/wechat.png",
-      "selectedIconPath": "image/wechatHL.png",
-      "text": "接口"
+      "iconPath": "image/logo.png",
+      "selectedIconPath": "image/logo.active.png",
+      "text": "关于"
+    }, {
+      "pagePath": "page/API/index/index",
+      "iconPath": "image/profile.png",
+      "selectedIconPath": "image/profile.active.png",
+      "text": "我"
     }]
   },
   "networkTimeout": {
